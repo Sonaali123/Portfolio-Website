@@ -59,7 +59,7 @@ body {
 
 /* Main Hero Section Styles */
 .hero { 
-	background-image: url('/Users/sunnyp/Desktop/FINAL PORTFOLIO WEB/gray-abstract-wireframe-technology-background.jpg'); 
+	background-image: url('./gray-abstract-wireframe-technology-background.jpg'); 
 	background-repeat: no-repeat; 
 	background-size: 100% 100%; 
 	width: 100%; 
@@ -162,7 +162,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url('/Users/sunnyp/Desktop/FINAL PORTFOLIO WEB/bg2.jpeg'); /* Replace 'your-background-image-url.jpg' with the URL or path to your background image */
+    background-image: url('./bg2.jpeg'); /* Replace 'your-background-image-url.jpg' with the URL or path to your background image */
     background-size: cover;
     background-position: center;
     width: 100%;
